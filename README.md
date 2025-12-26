@@ -1,5 +1,6 @@
 # NAT-TT-station-1.0-snapshot
 Designed as an emergency/temporary data transfer method between two devices, it is suitable for small and medium-sized message transmission.
+
 Preparation Steps:
 1.Download the Spring Boot project.
 2.Execute the SQL script to create the database table structure.
@@ -18,10 +19,6 @@ Open a browser and visit the intranet penetration URL (available on both mobile 
 Start Using.
 
 ========================================
-
-Name: Intranet Penetration Transfer / NAT-TT Station
-Description:
-Designed as an emergency/temporary data transfer method between two devices, it is suitable for small and medium-sized message transmission.
 
 Warnning:
 The platform currently has no login verification function.Be cautious with your data!
