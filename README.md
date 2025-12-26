@@ -1,13 +1,11 @@
 # NAT-TT-station-1.0-snapshot
 Designed as an emergency/temporary data transfer method between two devices, it is suitable for small and medium-sized message transmission.
 Preparation Steps:
-
 1.Download the Spring Boot project.
 2.Execute the SQL script to create the database table structure.
 3.Prepare an intranet penetration tool (e.g., cpolar).
 
 Running Steps:
-
 1.Run the Spring Boot project.
 2.Deploy intranet penetration for the local Spring Boot project port (e.g., port 8080).
 
